@@ -1,0 +1,140 @@
+body {
+    background-color: rgba(160, 200, 243, 0.619);
+}
+.menu{
+    width: 100%;
+    height: 0px;
+    background-color: rgb(66, 224, 95);
+    position: fixed;
+
+}
+
+ul{
+    list-style: none;
+}
+li{
+    float: left;
+    padding-right: 80px;
+    margin-left:  200px;
+    font-size: 20px;
+}
+li a{
+    text-decoration: none;
+}
+li a:hover{
+    background-image: linear-gradient(rgb(235, 143, 226),rgb(233, 129, 133));
+    color: white;
+    border-radius: 20px;
+}
+
+#a1,#a2,#a3,#a4{
+    color: aliceblue;
+    font-size: 30px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    top: 30px;
+    right: 200px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.ooo{
+    text-align: center;
+    margin-left:  200px;
+}
+td{
+    font-size: 20px;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+hr{
+    height: 4px;
+    width: 100%;
+    color: black;
+    background-color: white;
+
+}
+.aa{
+    text-align: center;
+}
+.cc{
+    text-align: center;
+}
+.block{
+    float:left;
+    border-radius:1em;
+    width:450px;
+    border:1px solid rgb(92, 243, 140);
+    padding:10px;
+    background-color: rgb(206, 235, 247);
+    margin-left: 200px;
+}
+.block2{
+    float:left;
+    border-radius:1em;
+    width:450px;
+    border:1px solid rgb(92, 243, 140);
+    padding:10px;
+    background-color: rgb(206, 235, 247);
+    margin-left: 300px; 
+}
+.music{
+    text-align: center;
+}
+.tdd{
+    font-size: 10px;
+    line-height: 30px;
+}
+.tf{
+    font-size: 10px;
+    line-height: 20px;
+}
+.tg{
+    text-align: center;
+    font-size: 20px;
+}
+.form, .form-item{
+    top: 20px;
+    width: 60px;
+    text-align: center;
+}
+.form-item .input{
+    width: 250px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border: none;
+    padding: 25px 40px;
+    box-sizing: border-box;
+    background: rgb(238, 237, 234);
+    text-align: center;
+    margin-left: 450px;
+}
+.form-item{
+    position: relative;
+}
+.form-item .fas{
+    position: absolute;
+    top: 25px;
+    left: 15px;
+}
+.btn{
+    text-align: center;
+    width: 150px;
+    background: #b7ebbb;
+    border-radius: 20px;
+    padding: 10px 6px;
+    color: #f8faf0;
+    cursor: pointer;
+    margin: 10px;
+    margin-left: 720px;
+}
+.pp{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
